@@ -23,8 +23,8 @@ modules:
     install:
       package:
         - kate
-    remove:
-      package:
+     remove:
+       package:
       # example: removing firefox (in favor of the flatpak)
       # "firefox" is the main package, "firefox-langpacks" is a dependency
          - kmines
